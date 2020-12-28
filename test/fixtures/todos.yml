@@ -1,0 +1,8 @@
+cleanup_vacuum:
+  description: Clean up the vacuum
+  due_date: <%= 1.day.from_now
+
+update_resume:
+  description: Update Resume
+  note: |
+    Follow this tips: https://www.batatolandia.de/blog/estudo-carreira/como-preparar-curriculo-e-carta-de-apresentacao-na-alemanha#canal-alemanizando
